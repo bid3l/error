@@ -11,7 +11,7 @@ git clone https://github.com/bid3l/error.git
  
  chmod 777 telegamer.sh 
  
- ./install.sh\
+ ./install.sh
  
  lua creator.lua
 ```
